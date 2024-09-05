@@ -5,7 +5,7 @@
 2. **Class name is starting from lower case (should be from upper)**
 3. **Class should be located in a separate file (unless it is an inner one)**
 4. **No package specified** (good practise to keep classes under folders/packages) for better structure organization
-5. **One letter filed name** (properties name should have meaningful names, like weight in this example)
+5. **One letter field name** (properties name should have meaningful names, like weight in this example)
 6. **Public field** (Encapsulation should not be violated)
 7. **Unnecessary static field** (static field belongs to class and shared among all objects)
 8. **Incorrect method names** (method names should say what they do, like getResult/calculateResult, not Result, also
